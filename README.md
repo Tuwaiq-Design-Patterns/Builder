@@ -2,7 +2,8 @@
 
 ## Builder هيكلة 
 
-<img width="680" alt="Screen Shot 1442-10-16 at 6 15 55 PM" src="https://user-images.githubusercontent.com/82456787/120007485-a1067080-bfe2-11eb-820b-00fbde9be26d.png">
+<img width="845" alt="Screen Shot 1442-10-16 at 7 49 08 PM" src="https://user-images.githubusercontent.com/82456787/120017012-00b64900-bfee-11eb-9e65-7fc00699d8b1.png">
+
 
 
 ### Builder Design Pattern مشروع 
