@@ -1,0 +1,12 @@
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/bin/Debug/netcoreapp3.1/PizzaBuilder.deps.json
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/bin/Debug/netcoreapp3.1/PizzaBuilder.runtimeconfig.json
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/bin/Debug/netcoreapp3.1/PizzaBuilder.runtimeconfig.dev.json
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/bin/Debug/netcoreapp3.1/PizzaBuilder.dll
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/bin/Debug/netcoreapp3.1/PizzaBuilder.pdb
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/obj/Debug/netcoreapp3.1/PizzaBuilder.csprojAssemblyReference.cache
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/obj/Debug/netcoreapp3.1/PizzaBuilder.AssemblyInfoInputs.cache
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/obj/Debug/netcoreapp3.1/PizzaBuilder.AssemblyInfo.cs
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/obj/Debug/netcoreapp3.1/PizzaBuilder.csproj.CoreCompileInputs.cache
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/obj/Debug/netcoreapp3.1/PizzaBuilder.dll
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/obj/Debug/netcoreapp3.1/PizzaBuilder.pdb
+/Users/rawabeebrahim/Projects/Builder/PizzaBuilder/obj/Debug/netcoreapp3.1/PizzaBuilder.genruntimeconfig.cache

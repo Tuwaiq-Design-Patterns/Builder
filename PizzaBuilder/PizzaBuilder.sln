@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaBuilder", "PizzaBuilder.csproj", "{9562F557-705B-486E-BAB6-DE647E33EAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9562F557-705B-486E-BAB6-DE647E33EAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9562F557-705B-486E-BAB6-DE647E33EAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9562F557-705B-486E-BAB6-DE647E33EAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9562F557-705B-486E-BAB6-DE647E33EAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D1918C-72BF-4087-ADB8-657F7F63E4F0}
+	EndGlobalSection
+EndGlobal
