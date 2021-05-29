@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\bin\Debug\net5.0\PizzaResturantBuilder.exe
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\bin\Debug\net5.0\PizzaResturantBuilder.deps.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\bin\Debug\net5.0\PizzaResturantBuilder.runtimeconfig.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\bin\Debug\net5.0\PizzaResturantBuilder.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\bin\Debug\net5.0\PizzaResturantBuilder.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\bin\Debug\net5.0\ref\PizzaResturantBuilder.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\bin\Debug\net5.0\PizzaResturantBuilder.pdb
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\PizzaResturantBuilder.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\PizzaResturantBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\PizzaResturantBuilder.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\PizzaResturantBuilder.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\PizzaResturantBuilder.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\PizzaResturantBuilder.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\ref\PizzaResturantBuilder.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\PizzaResturantBuilder.pdb
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Builder\PizzaResturantBuilder\PizzaResturantBuilder\obj\Debug\net5.0\PizzaResturantBuilder.genruntimeconfig.cache
