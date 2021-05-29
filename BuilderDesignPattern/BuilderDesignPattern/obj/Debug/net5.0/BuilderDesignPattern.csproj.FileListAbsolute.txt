@@ -1,0 +1,16 @@
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.exe
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.deps.json
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.runtimeconfig.json
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.runtimeconfig.dev.json
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.dll
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net5.0\ref\BuilderDesignPattern.dll
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.pdb
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.csproj.AssemblyReference.cache
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.dll
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\ref\BuilderDesignPattern.dll
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.pdb
+C:\Users\96655\OneDrive\Desktop\Tuwaiq\Design Pattern\Builder-1\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.genruntimeconfig.cache
