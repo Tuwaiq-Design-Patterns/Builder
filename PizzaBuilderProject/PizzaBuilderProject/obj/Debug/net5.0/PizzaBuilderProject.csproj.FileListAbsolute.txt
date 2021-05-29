@@ -1,0 +1,16 @@
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\bin\Debug\net5.0\PizzaBuilderProject.exe
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\bin\Debug\net5.0\PizzaBuilderProject.deps.json
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\bin\Debug\net5.0\PizzaBuilderProject.runtimeconfig.json
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\bin\Debug\net5.0\PizzaBuilderProject.runtimeconfig.dev.json
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\bin\Debug\net5.0\PizzaBuilderProject.dll
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\bin\Debug\net5.0\ref\PizzaBuilderProject.dll
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\bin\Debug\net5.0\PizzaBuilderProject.pdb
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\PizzaBuilderProject.csproj.AssemblyReference.cache
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\PizzaBuilderProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\PizzaBuilderProject.AssemblyInfoInputs.cache
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\PizzaBuilderProject.AssemblyInfo.cs
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\PizzaBuilderProject.csproj.CoreCompileInputs.cache
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\PizzaBuilderProject.dll
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\ref\PizzaBuilderProject.dll
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\PizzaBuilderProject.pdb
+C:\Users\Shaha\source\repos\PizzaBuilderProject\PizzaBuilderProject\obj\Debug\net5.0\PizzaBuilderProject.genruntimeconfig.cache
