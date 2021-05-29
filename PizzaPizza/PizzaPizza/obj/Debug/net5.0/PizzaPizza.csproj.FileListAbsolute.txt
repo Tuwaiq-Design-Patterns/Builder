@@ -1,0 +1,32 @@
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.exe
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.deps.json
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.runtimeconfig.json
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.runtimeconfig.dev.json
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.dll
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\bin\Debug\net5.0\ref\PizzaPizza.dll
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.pdb
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.csprojAssemblyReference.cache
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.AssemblyInfoInputs.cache
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.AssemblyInfo.cs
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.csproj.CoreCompileInputs.cache
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.dll
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\ref\PizzaPizza.dll
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.pdb
+C:\Users\Batool Alghamdi\source\repos\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.genruntimeconfig.cache
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.exe
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.deps.json
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.runtimeconfig.json
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.runtimeconfig.dev.json
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.dll
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\bin\Debug\net5.0\ref\PizzaPizza.dll
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\bin\Debug\net5.0\PizzaPizza.pdb
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.csprojAssemblyReference.cache
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.AssemblyInfoInputs.cache
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.AssemblyInfo.cs
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.csproj.CoreCompileInputs.cache
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.dll
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\ref\PizzaPizza.dll
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.pdb
+C:\Users\Batool Alghamdi\Desktop\Tuwaiq\Design Pattern\Builder\PizzaPizza\PizzaPizza\obj\Debug\net5.0\PizzaPizza.genruntimeconfig.cache
