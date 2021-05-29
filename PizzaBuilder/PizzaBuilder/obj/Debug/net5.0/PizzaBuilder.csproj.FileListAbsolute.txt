@@ -1,0 +1,16 @@
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.exe
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.deps.json
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.runtimeconfig.json
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.runtimeconfig.dev.json
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.dll
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\ref\PizzaBuilder.dll
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.pdb
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.csprojAssemblyReference.cache
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.AssemblyInfoInputs.cache
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.AssemblyInfo.cs
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.dll
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\ref\PizzaBuilder.dll
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.pdb
+D:\Tuwaiq\DesignPatterns\homework\Builder\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.genruntimeconfig.cache
