@@ -1,0 +1,16 @@
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\bin\Debug\net5.0\PizzaOrders.exe
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\bin\Debug\net5.0\PizzaOrders.deps.json
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\bin\Debug\net5.0\PizzaOrders.runtimeconfig.json
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\bin\Debug\net5.0\PizzaOrders.runtimeconfig.dev.json
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\bin\Debug\net5.0\PizzaOrders.dll
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\bin\Debug\net5.0\ref\PizzaOrders.dll
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\bin\Debug\net5.0\PizzaOrders.pdb
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\PizzaOrders.csprojAssemblyReference.cache
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\PizzaOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\PizzaOrders.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\PizzaOrders.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\PizzaOrders.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\PizzaOrders.dll
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\ref\PizzaOrders.dll
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\PizzaOrders.pdb
+C:\Users\Abdullah\source\repos\PizzaOrders\PizzaOrders\obj\Debug\net5.0\PizzaOrders.genruntimeconfig.cache
