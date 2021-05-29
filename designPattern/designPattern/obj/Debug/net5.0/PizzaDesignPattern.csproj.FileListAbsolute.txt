@@ -1,0 +1,16 @@
+C:\Users\Taghr\source\repos\designPattern\designPattern\bin\Debug\net5.0\PizzaDesignPattern.exe
+C:\Users\Taghr\source\repos\designPattern\designPattern\bin\Debug\net5.0\PizzaDesignPattern.deps.json
+C:\Users\Taghr\source\repos\designPattern\designPattern\bin\Debug\net5.0\PizzaDesignPattern.runtimeconfig.json
+C:\Users\Taghr\source\repos\designPattern\designPattern\bin\Debug\net5.0\PizzaDesignPattern.runtimeconfig.dev.json
+C:\Users\Taghr\source\repos\designPattern\designPattern\bin\Debug\net5.0\PizzaDesignPattern.dll
+C:\Users\Taghr\source\repos\designPattern\designPattern\bin\Debug\net5.0\ref\PizzaDesignPattern.dll
+C:\Users\Taghr\source\repos\designPattern\designPattern\bin\Debug\net5.0\PizzaDesignPattern.pdb
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\PizzaDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\PizzaDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\PizzaDesignPattern.AssemblyInfo.cs
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\PizzaDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\PizzaDesignPattern.dll
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\ref\PizzaDesignPattern.dll
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\PizzaDesignPattern.pdb
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\PizzaDesignPattern.genruntimeconfig.cache
+C:\Users\Taghr\source\repos\designPattern\designPattern\obj\Debug\net5.0\PizzaDesignPattern.csprojAssemblyReference.cache
