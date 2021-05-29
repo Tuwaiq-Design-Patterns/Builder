@@ -1,0 +1,16 @@
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\bin\Debug\net5.0\Pizza-Builder.exe
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\bin\Debug\net5.0\Pizza-Builder.deps.json
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\bin\Debug\net5.0\Pizza-Builder.runtimeconfig.json
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\bin\Debug\net5.0\Pizza-Builder.runtimeconfig.dev.json
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\bin\Debug\net5.0\Pizza-Builder.dll
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\bin\Debug\net5.0\ref\Pizza-Builder.dll
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\bin\Debug\net5.0\Pizza-Builder.pdb
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\Pizza-Builder.csprojAssemblyReference.cache
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\Pizza-Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\Pizza-Builder.AssemblyInfoInputs.cache
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\Pizza-Builder.AssemblyInfo.cs
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\Pizza-Builder.csproj.CoreCompileInputs.cache
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\Pizza-Builder.dll
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\ref\Pizza-Builder.dll
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\Pizza-Builder.pdb
+C:\Users\temx3\source\repos\Pizza-Builder\Pizza-Builder\obj\Debug\net5.0\Pizza-Builder.genruntimeconfig.cache
