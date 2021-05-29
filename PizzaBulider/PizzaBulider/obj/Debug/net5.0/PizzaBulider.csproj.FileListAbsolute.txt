@@ -1,0 +1,16 @@
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\bin\Debug\net5.0\PizzaBulider.exe
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\bin\Debug\net5.0\PizzaBulider.deps.json
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\bin\Debug\net5.0\PizzaBulider.runtimeconfig.json
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\bin\Debug\net5.0\PizzaBulider.runtimeconfig.dev.json
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\bin\Debug\net5.0\PizzaBulider.dll
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\bin\Debug\net5.0\ref\PizzaBulider.dll
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\bin\Debug\net5.0\PizzaBulider.pdb
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\PizzaBulider.csprojAssemblyReference.cache
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\PizzaBulider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\PizzaBulider.AssemblyInfoInputs.cache
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\PizzaBulider.AssemblyInfo.cs
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\PizzaBulider.csproj.CoreCompileInputs.cache
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\PizzaBulider.dll
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\ref\PizzaBulider.dll
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\PizzaBulider.pdb
+C:\Users\hussa\Desktop\Builder\PizzaBulider\PizzaBulider\obj\Debug\net5.0\PizzaBulider.genruntimeconfig.cache
