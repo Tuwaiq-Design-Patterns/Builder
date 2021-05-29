@@ -1,0 +1,16 @@
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\bin\Debug\net5.0\builder.exe
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\bin\Debug\net5.0\builder.deps.json
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\bin\Debug\net5.0\builder.runtimeconfig.json
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\bin\Debug\net5.0\builder.runtimeconfig.dev.json
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\bin\Debug\net5.0\builder.dll
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\bin\Debug\net5.0\ref\builder.dll
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\bin\Debug\net5.0\builder.pdb
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\builder.csprojAssemblyReference.cache
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\builder.AssemblyInfoInputs.cache
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\builder.AssemblyInfo.cs
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\builder.dll
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\ref\builder.dll
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\builder.pdb
+C:\Users\lenovo1\Desktop\DesignPatternsProjects\Builder\obj\Debug\net5.0\builder.genruntimeconfig.cache
