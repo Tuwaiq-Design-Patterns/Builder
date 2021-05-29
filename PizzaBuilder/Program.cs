@@ -162,16 +162,6 @@ namespace PizzaBuilder
             wPBuilder.buildSauce();
             Console.WriteLine(wPBuilder.GetProduct().wheatPizzalistParts());
 
-            Console.WriteLine("Choose Dough: ");
-            string dough = Console.ReadLine();
-
-            Console.WriteLine("Choose Sauce: ");
-            string Sauce = Console.ReadLine();
-
-            Console.WriteLine("Choose Topping: ");
-            string Topping = Console.ReadLine();
-
-            Console.WriteLine(wPBuilder.GetProduct().wheatPizzalistParts() + dough+" "+ Sauce + " " + Topping);
         }
     }
 }
