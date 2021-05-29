@@ -13,7 +13,12 @@ namespace PizzaBuilder
 
     public class WhitePizzaBuilder : IPizzaBuilder
     {
-        private Pizza WhitePizza = new Pizza();
+        private whitePizza WhitePizza = new whitePizza();
+
+        public WhitePizzaBuilder()
+        {
+            this.reset();
+        }
         public void BuildDough()
         {
             this.WhitePizza.Add("White Dough");
@@ -31,19 +36,24 @@ namespace PizzaBuilder
 
         public void reset()
         {
-            this.WhitePizza = new Pizza();
+            this.WhitePizza = new whitePizza();
         }
 
-        public Pizza GetPizza()
+        public whitePizza GetPizza()
         {
-            Pizza result = this.WhitePizza;
+            whitePizza result = this.WhitePizza;
             this.reset();
             return result;
         }
     }
     public class WheatPizzaBuilder : IPizzaBuilder
     {
-        private Pizza wheatPizza = new Pizza();
+        private wheatPizza wheatPizza = new wheatPizza();
+
+        public WheatPizzaBuilder()
+        {
+            this.reset();
+        }
         public void BuildDough()
         {
             this.wheatPizza.Add("Wheat Dough");
@@ -61,18 +71,18 @@ namespace PizzaBuilder
 
         public void reset()
         {
-            this.wheatPizza = new Pizza();
+            this.wheatPizza = new wheatPizza();
         }
 
-        public Pizza GetPizza()
+        public wheatPizza GetPizza()
         {
-            Pizza result = this.wheatPizza;
+            wheatPizza result = this.wheatPizza;
             this.reset();
             return result;
         }
     }
 
-    public class Pizza
+    public class whitePizza
     {
         private List<object> ingredients = new List<object>();
         public void Add(string ingredient)
@@ -86,10 +96,29 @@ namespace PizzaBuilder
             {
                 str += this.ingredients[i] + ",";
             }
-            return "Pizza paringredientsts:" + str;
+            return "White Pizza ingredientsts:" + str;
         }
 
     }
+    public class wheatPizza
+    {
+        private List<object> ingredients = new List<object>();
+        public void Add(string ingredient)
+        {
+            this.ingredients.Add(ingredient);
+        }
+        public string listIngredients()
+        {
+            string str = "";
+            for (int i = 0; i < this.ingredients.Count; i++)
+            {
+                str += this.ingredients[i] + ",";
+            }
+            return "Wheat Pizza ingredientsts:" + str;
+        }
+
+    }
+
 
     public class Director
     {
