@@ -1,0 +1,16 @@
+D:\Tuwaiq\DesignPattren\project01\Builder\bin\Debug\net5.0\Builder.exe
+D:\Tuwaiq\DesignPattren\project01\Builder\bin\Debug\net5.0\Builder.deps.json
+D:\Tuwaiq\DesignPattren\project01\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+D:\Tuwaiq\DesignPattren\project01\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+D:\Tuwaiq\DesignPattren\project01\Builder\bin\Debug\net5.0\Builder.dll
+D:\Tuwaiq\DesignPattren\project01\Builder\bin\Debug\net5.0\ref\Builder.dll
+D:\Tuwaiq\DesignPattren\project01\Builder\bin\Debug\net5.0\Builder.pdb
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\Builder.dll
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\ref\Builder.dll
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\Builder.pdb
+D:\Tuwaiq\DesignPattren\project01\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
