@@ -1,0 +1,32 @@
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\bin\Debug\net5.0\Builder.exe
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\bin\Debug\net5.0\Builder.dll
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\bin\Debug\net5.0\ref\Builder.dll
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\Builder.dll
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project\Builder\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\bin\Debug\net5.0\Builder.exe
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\bin\Debug\net5.0\Builder.dll
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\bin\Debug\net5.0\ref\Builder.dll
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\Builder.dll
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+D:\Business\المعسكر\الاسبوع 6\Design Pattern Project 2\Builder\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
