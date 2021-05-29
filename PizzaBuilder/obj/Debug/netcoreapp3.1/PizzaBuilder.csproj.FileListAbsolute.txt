@@ -1,0 +1,13 @@
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.exe
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.deps.json
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.runtimeconfig.json
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.runtimeconfig.dev.json
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.dll
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\netcoreapp3.1\PizzaBuilder.pdb
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.csprojAssemblyReference.cache
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.AssemblyInfoInputs.cache
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.AssemblyInfo.cs
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.dll
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.pdb
+C:\Users\b0c0a\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\netcoreapp3.1\PizzaBuilder.genruntimeconfig.cache
