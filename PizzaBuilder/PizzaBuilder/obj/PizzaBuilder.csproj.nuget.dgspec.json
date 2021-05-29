@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tuwaiq\\DesignPatterns\\homework\\Builder\\PizzaBuilder\\PizzaBuilder\\PizzaBuilder.csproj": {}
+    "D:\\Tuwaiq\\DesignPatterns\\project\\Builder\\PizzaBuilder\\PizzaBuilder\\PizzaBuilder.csproj": {}
   },
   "projects": {
-    "D:\\Tuwaiq\\DesignPatterns\\homework\\Builder\\PizzaBuilder\\PizzaBuilder\\PizzaBuilder.csproj": {
+    "D:\\Tuwaiq\\DesignPatterns\\project\\Builder\\PizzaBuilder\\PizzaBuilder\\PizzaBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tuwaiq\\DesignPatterns\\homework\\Builder\\PizzaBuilder\\PizzaBuilder\\PizzaBuilder.csproj",
+        "projectUniqueName": "D:\\Tuwaiq\\DesignPatterns\\project\\Builder\\PizzaBuilder\\PizzaBuilder\\PizzaBuilder.csproj",
         "projectName": "PizzaBuilder",
-        "projectPath": "D:\\Tuwaiq\\DesignPatterns\\homework\\Builder\\PizzaBuilder\\PizzaBuilder\\PizzaBuilder.csproj",
+        "projectPath": "D:\\Tuwaiq\\DesignPatterns\\project\\Builder\\PizzaBuilder\\PizzaBuilder\\PizzaBuilder.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "D:\\Tuwaiq\\DesignPatterns\\homework\\Builder\\PizzaBuilder\\PizzaBuilder\\obj\\",
+        "outputPath": "D:\\Tuwaiq\\DesignPatterns\\project\\Builder\\PizzaBuilder\\PizzaBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

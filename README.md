@@ -6,7 +6,7 @@
 <br />
 <b> Group:</b>  Al-qiddiyah.
 <br />
-<b> Group Instructor:</b>  Noorah Abdullah.
+<b> Supervisor:</b>  Noorah Abdullah.
 
 
 <br />
