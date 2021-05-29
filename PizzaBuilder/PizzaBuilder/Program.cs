@@ -10,8 +10,8 @@ namespace PizzaBuilder
         {
             void Reset();
             void BuildDough();
-            void BuildSauce();
-            void BuildTopping();
+            void BuildSauce(string s = "Tomato");
+            void BuildTopping(string t = "Cheese");
 
         }
 
@@ -29,14 +29,14 @@ namespace PizzaBuilder
                 this.pizza.addIngredient("The Best white Dough");
             }
 
-            public void BuildSauce()
+            public void BuildSauce(string s = "Tomato")
             {
-                this.pizza.addIngredient("Adding Tomato Sauce");
+                this.pizza.addIngredient($"{s} Sauce");
             }
 
-            public void BuildTopping()
+            public void BuildTopping(string t = "Cheese")
             {
-                this.pizza.addIngredient("Adding Delicious Toppings");
+                this.pizza.addIngredient($"{t} Toppings");
             }
 
             public void Reset()
@@ -67,14 +67,14 @@ namespace PizzaBuilder
                 this.pizza.addIngredient("The Best wheat Dough");
             }
 
-            public void BuildSauce()
+            public void BuildSauce(string s = "Tomato")
             {
-                this.pizza.addIngredient("Tomato Sauce");
+                this.pizza.addIngredient($"{s} Sauce");
             }
 
-            public void BuildTopping()
+            public void BuildTopping(string t = "Cheese")
             {
-                this.pizza.addIngredient("Delicious Toppings");
+                this.pizza.addIngredient($"{t} Toppings");
             }
 
             public void Reset()
@@ -96,9 +96,9 @@ namespace PizzaBuilder
         {
             private List<object> pizza_ingredients = new List<object>();
 
-            public void addIngredient(string ing)
+            public void addIngredient(string ingredient)
             {
-                this.pizza_ingredients.Add(ing);
+                this.pizza_ingredients.Add(ingredient);
             }
 
             public string listIngredients()
@@ -110,7 +110,7 @@ namespace PizzaBuilder
                     str += this.pizza_ingredients[i] + ", ";
                 }
 
-                return "Pizza is ready! it has: \n" + str;
+                return "Pizza is ready! it has: \t" + str;
             }
 
         }
@@ -139,6 +139,15 @@ namespace PizzaBuilder
                 this.pizzaBuilder.BuildSauce();
                 this.pizzaBuilder.BuildTopping();
             }
+            public void MakePizzaCustom(string s, string t)
+            {
+                this.pizzaBuilder.BuildDough();
+                this.pizzaBuilder.BuildSauce(s);
+                this.pizzaBuilder.BuildTopping(t);
+            }
+
+
+
 
         }
 
@@ -152,7 +161,7 @@ namespace PizzaBuilder
 
             var director = new Director();
             var whitePizza = new WhitePizzaBuilder();
-            var wheatPizza = new WhitePizzaBuilder();
+            var wheatPizza = new WheatPizzaBuilder();
 
             director.Builder = whitePizza;
             director.MakePizzaWithSauce();
@@ -164,9 +173,29 @@ namespace PizzaBuilder
             director.MakePizzaFull();
             Console.WriteLine(wheatPizza.getPizza().listIngredients());
 
+            Console.WriteLine("=======================");
 
+            //BONUS 1
+            //pizza without dough....
+            wheatPizza.BuildSauce();
+            wheatPizza.BuildTopping();
+            Console.WriteLine(wheatPizza.getPizza().listIngredients());
 
+            Console.WriteLine("=======================");
 
+            //BONUS 2
+            Console.WriteLine("Don't like what's in the menu? make your own custom pizza!");
+            Console.WriteLine("Dough? (we only have white and wheat)...");
+            string doughInput = Console.ReadLine();
+            Console.WriteLine("Sauce?");
+            string sauceInput = Console.ReadLine();
+            Console.WriteLine("Toppings?");
+            string toppingInput = Console.ReadLine();
+
+            director.Builder = doughInput == "white" ? whitePizza : wheatPizza;
+
+            director.MakePizzaCustom(sauceInput, toppingInput);
+            Console.WriteLine(wheatPizza.getPizza().listIngredients());
         }
 
 
