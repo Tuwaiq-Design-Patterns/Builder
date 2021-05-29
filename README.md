@@ -11,7 +11,7 @@
 <h4 align="center">Implement the Builder creational design pattern as Pizza object</h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YounesAlturkey/Project01_ASP.NET_MVC/main/frontend/public/demo.png" alt="demo"/>
+  <img src="https://raw.githubusercontent.com/YounesAlturkey/Builder/main/classes/demo.png" alt="demo"/>
 </p>
 
 <div align="right">
