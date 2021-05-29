@@ -1,0 +1,15 @@
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.deps.json
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.runtimeconfig.json
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.runtimeconfig.dev.json
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.dll
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/bin/Debug/net5.0/ref/PizzaBuilder.dll
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.pdb
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.csprojAssemblyReference.cache
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.AssemblyInfoInputs.cache
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.AssemblyInfo.cs
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.csproj.CoreCompileInputs.cache
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.dll
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/ref/PizzaBuilder.dll
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.pdb
+/Users/afra/Desktop/designPattrnsProjects/Builder-1/PizzaBuilder/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.genruntimeconfig.cache
