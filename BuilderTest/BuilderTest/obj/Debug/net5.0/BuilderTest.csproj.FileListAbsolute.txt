@@ -1,0 +1,16 @@
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\BuilderTest.csprojAssemblyReference.cache
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\BuilderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\BuilderTest.AssemblyInfoInputs.cache
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\BuilderTest.AssemblyInfo.cs
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\BuilderTest.csproj.CoreCompileInputs.cache
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\bin\Debug\net5.0\BuilderTest.exe
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\bin\Debug\net5.0\BuilderTest.deps.json
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\bin\Debug\net5.0\BuilderTest.runtimeconfig.json
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\bin\Debug\net5.0\BuilderTest.runtimeconfig.dev.json
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\bin\Debug\net5.0\BuilderTest.dll
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\bin\Debug\net5.0\ref\BuilderTest.dll
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\bin\Debug\net5.0\BuilderTest.pdb
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\BuilderTest.dll
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\ref\BuilderTest.dll
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\BuilderTest.pdb
+C:\Users\F-LOW\source\repos\BuilderTest\BuilderTest\obj\Debug\net5.0\BuilderTest.genruntimeconfig.cache
