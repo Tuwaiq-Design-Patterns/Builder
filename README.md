@@ -4,15 +4,6 @@
 ## اسم الفريق : امالا
 
 <br /><br />
- 
-
-# Demo
-
-
-<br /><br />
-
-<img src="./builder.png" width="845" height="300">
-
 
 # Builder
 
