@@ -1,0 +1,16 @@
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\bin\Debug\net5.0\BuilderDesign.exe
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\bin\Debug\net5.0\BuilderDesign.deps.json
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\bin\Debug\net5.0\BuilderDesign.runtimeconfig.json
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\bin\Debug\net5.0\BuilderDesign.runtimeconfig.dev.json
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\bin\Debug\net5.0\BuilderDesign.dll
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\bin\Debug\net5.0\ref\BuilderDesign.dll
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\bin\Debug\net5.0\BuilderDesign.pdb
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\BuilderDesign.csprojAssemblyReference.cache
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\BuilderDesign.GeneratedMSBuildEditorConfig.editorconfig
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\BuilderDesign.AssemblyInfoInputs.cache
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\BuilderDesign.AssemblyInfo.cs
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\BuilderDesign.csproj.CoreCompileInputs.cache
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\BuilderDesign.dll
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\ref\BuilderDesign.dll
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\BuilderDesign.pdb
+G:\!1 Tuwaiq Bootcamp\1Projects\DesignPatterns\Builder\BuilderDesign\BuilderDesign\obj\Debug\net5.0\BuilderDesign.genruntimeconfig.cache
