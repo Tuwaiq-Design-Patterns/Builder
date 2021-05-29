@@ -1,11 +1,17 @@
+
 # Builder
 
 ## Builder هيكلة 
 
 <img width="845" alt="Screen Shot 1442-10-16 at 7 49 08 PM" src="https://user-images.githubusercontent.com/82456787/120017012-00b64900-bfee-11eb-9e65-7fc00699d8b1.png">
+<br>
+<div dir=rtl>
 
-
-
+### المتدرب : سعود الشمري
+### المشرفة : نوره عبد الله
+### مجموعة : القديه
+  
+</div>
 ### Builder Design Pattern مشروع 
 
 على مطعم بيتزا  Builder في هذا المشروع مطلوب منك تطبيق مفهوم
