@@ -9,11 +9,12 @@ namespace PizzaDesignPattern
         public void BuildDough();
         public void BuildSous();
         public void BuildTopping();
+        public void BuildCheese();
     }
-    public class WhitePizza : IPizzaBuilder
+    public class WhitePizzaBuilder : IPizzaBuilder
     {
-        private Pizza Pizza = new Pizza();
-        public WhitePizza()
+        private WhitePizza Pizza = new WhitePizza();
+        public WhitePizzaBuilder()
         {
             this.reset();
         }
@@ -25,29 +26,34 @@ namespace PizzaDesignPattern
 
         public void BuildSous()
         {
-            this.Pizza.add("sous");
+            this.Pizza.add(", sous");
         }
 
         public void BuildTopping()
         {
-            this.Pizza.add("topping");
+            this.Pizza.add(", topping");
+        }
+
+        public void BuildCheese()
+        {
+            this.Pizza.add(", cheese");
         }
 
         public void reset()
         {
-            this.Pizza = new Pizza();
+            this.Pizza = new WhitePizza();
         }
-        public Pizza GetPizza()
+        public WhitePizza GetPizza()
         {
-            Pizza result = this.Pizza;
+            WhitePizza result = this.Pizza;
             this.reset();
             return result;
         }
     }
-    public class WheatPizza : IPizzaBuilder
+    public class WheatPizzaBuilder : IPizzaBuilder
     {
-        private Pizza Pizza = new Pizza();
-        public WheatPizza()
+        private WheatPizza Pizza = new WheatPizza();
+        public WheatPizzaBuilder()
         {
             this.reset();
         }
@@ -59,26 +65,48 @@ namespace PizzaDesignPattern
 
         public void BuildSous()
         {
-            this.Pizza.add("sous");
+            this.Pizza.add(", sous");
         }
 
         public void BuildTopping()
         {
-            this.Pizza.add("topping");
+            this.Pizza.add(", topping");
+        }
+
+        public void BuildCheese()
+        {
+            this.Pizza.add(", cheese");
         }
 
         public void reset()
         {
-            this.Pizza = new Pizza();
+            this.Pizza = new WheatPizza();
         }
-        public Pizza GetPizza()
+        public WheatPizza GetPizza()
         {
-            Pizza result = this.Pizza;
+            WheatPizza result = this.Pizza;
             this.reset();
             return result;
         }
     }
-    public class Pizza
+    public class WheatPizza
+    {
+        private List<object> FPizza = new List<object>();
+        public void add(string component)
+        {
+            this.FPizza.Add(component);
+        }
+        public string FinalPizza()
+        {
+            string str = "";
+            for (int i = 0; i < this.FPizza.Count; i++)
+            {
+                str += this.FPizza[i] + " ";
+            }
+            return "your pizza : " + str;
+        }
+    }
+    public class WhitePizza
     {
         private List<object> FPizza = new List<object>();
         public void add(string component)
@@ -107,6 +135,7 @@ namespace PizzaDesignPattern
             this.pizzaBuilder.BuildDough();
             this.pizzaBuilder.BuildSous();
             this.pizzaBuilder.BuildTopping();
+            this.pizzaBuilder.BuildCheese();
         }
     }
     class Program
@@ -115,12 +144,16 @@ namespace PizzaDesignPattern
         {
             var director = new Director();
 
-            var whitePizza = new WhitePizza();
+            var whitePizza = new WhitePizzaBuilder();
+
+            var wheatPizza = new WheatPizzaBuilder();
+
+            //make pizza with white dough
             director.Builder = whitePizza;
             director.makeFullPizza();
             Console.WriteLine(whitePizza.GetPizza().FinalPizza());
 
-            var wheatPizza = new WheatPizza();
+            //make pizza with wheat dough
             director.Builder = wheatPizza;
             director.makeFullPizza();
             Console.WriteLine(wheatPizza.GetPizza().FinalPizza());
@@ -128,6 +161,7 @@ namespace PizzaDesignPattern
             //bonus Part
             whitePizza.BuildDough();
             whitePizza.BuildSous();
+            whitePizza.BuildCheese();
             Console.WriteLine(whitePizza.GetPizza().FinalPizza());
         }
     }

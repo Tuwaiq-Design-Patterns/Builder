@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taghr\\source\\repos\\designPattern\\designPattern\\PizzaDesignPattern.csproj",
+      "projectUniqueName": "C:\\Users\\Taghr\\Desktop\\Builder\\designPattern\\designPattern\\PizzaDesignPattern.csproj",
       "projectName": "PizzaDesignPattern",
-      "projectPath": "C:\\Users\\Taghr\\source\\repos\\designPattern\\designPattern\\PizzaDesignPattern.csproj",
+      "projectPath": "C:\\Users\\Taghr\\Desktop\\Builder\\designPattern\\designPattern\\PizzaDesignPattern.csproj",
       "packagesPath": "C:\\Users\\Taghr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taghr\\source\\repos\\designPattern\\designPattern\\obj\\",
+      "outputPath": "C:\\Users\\Taghr\\Desktop\\Builder\\designPattern\\designPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Taghr\\AppData\\Roaming\\NuGet\\NuGet.Config",
