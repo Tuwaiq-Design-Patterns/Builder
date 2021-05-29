@@ -1,0 +1,16 @@
+C:\Users\amalf\source\repos\Builder_\bin\Debug\net5.0\Builder_.exe
+C:\Users\amalf\source\repos\Builder_\bin\Debug\net5.0\Builder_.deps.json
+C:\Users\amalf\source\repos\Builder_\bin\Debug\net5.0\Builder_.runtimeconfig.json
+C:\Users\amalf\source\repos\Builder_\bin\Debug\net5.0\Builder_.runtimeconfig.dev.json
+C:\Users\amalf\source\repos\Builder_\bin\Debug\net5.0\Builder_.dll
+C:\Users\amalf\source\repos\Builder_\bin\Debug\net5.0\ref\Builder_.dll
+C:\Users\amalf\source\repos\Builder_\bin\Debug\net5.0\Builder_.pdb
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\Builder_.csprojAssemblyReference.cache
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\Builder_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\Builder_.AssemblyInfoInputs.cache
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\Builder_.AssemblyInfo.cs
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\Builder_.csproj.CoreCompileInputs.cache
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\Builder_.dll
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\ref\Builder_.dll
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\Builder_.pdb
+C:\Users\amalf\source\repos\Builder_\obj\Debug\net5.0\Builder_.genruntimeconfig.cache
