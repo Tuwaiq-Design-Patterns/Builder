@@ -10,10 +10,10 @@ namespace Builder_
         public void BuildSauce();
         public void BuildTopping();
     }
-    public class WhitePizza : IPizzaBuilder
+    public class WhitePizzaBuilder : IPizzaBuilder
     {
-        private Pizza _WhitePizza = new Pizza();
-        public WhitePizza()
+        private PizzaWhite _WhitePizza = new PizzaWhite();
+        public WhitePizzaBuilder()
         {
             this.reset();
         }
@@ -34,19 +34,19 @@ namespace Builder_
 
         public void reset()
         {
-            this._WhitePizza = new Pizza();
+            this._WhitePizza = new PizzaWhite();
         }
-        public Pizza GetProduct()
+        public PizzaWhite GetProduct()
         {
-            Pizza result = this._WhitePizza;
+            PizzaWhite result = this._WhitePizza;
             this.reset();
             return result;
         }
     }
-    public class WheatePizza : IPizzaBuilder
+    public class WheatePizzaBuilder : IPizzaBuilder
     {
-        private Pizza _WheatePizza = new Pizza();
-        public WheatePizza()
+        private PizzaWheate _WheatePizza = new PizzaWheate();
+        public WheatePizzaBuilder()
         {
             this.reset();
         }
@@ -67,25 +67,25 @@ namespace Builder_
 
         public void reset()
         {
-            this._WheatePizza = new Pizza();
+            this._WheatePizza = new PizzaWheate();
         }
 
-        public Pizza GetProduct()
+        public PizzaWheate GetProduct()
         {
-            Pizza result = this._WheatePizza;
+            PizzaWheate result = this._WheatePizza;
             this.reset();
             return result;
         }
     }
 
-    public class Pizza
+    public class PizzaWheate
     {
         private List<object> pizza = new List<object>();
         public void Add(string recipe)
         {
             this.pizza.Add(recipe);
         }
-        public string compaltePiza()
+        public string compaltePizza()
         {
             string str = "";
             for (int i = 0; i < this.pizza.Count; i++)
@@ -99,6 +99,32 @@ namespace Builder_
                     str += this.pizza[i] + ".";
                 }
                 
+            }
+            return "pizza: " + str;
+        }
+    }
+
+    public class PizzaWhite
+    {
+        private List<object> pizza = new List<object>();
+        public void Add(string recipe)
+        {
+            this.pizza.Add(recipe);
+        }
+        public string compaltePizza()
+        {
+            string str = "";
+            for (int i = 0; i < this.pizza.Count; i++)
+            {
+                if (i < this.pizza.Count - 1)
+                {
+                    str += this.pizza[i] + ",";
+                }
+                else
+                {
+                    str += this.pizza[i] + ".";
+                }
+
             }
             return "pizza: " + str;
         }
@@ -122,19 +148,19 @@ namespace Builder_
         static void Main(string[] args)
         {
             var director = new Director();
-            var _WhitePizza = new WhitePizza();
+            var _WhitePizza = new WhitePizzaBuilder();
             director.Builder = _WhitePizza;
             director.MakePizza();
-            Console.WriteLine(_WhitePizza.GetProduct().compaltePiza());
+            Console.WriteLine(_WhitePizza.GetProduct().compaltePizza());
 
-            var _WheatePizza = new WheatePizza();
+            var _WheatePizza = new WheatePizzaBuilder();
             director.Builder = _WheatePizza;
             director.MakePizza();
-            Console.WriteLine(_WheatePizza.GetProduct().compaltePiza());
+            Console.WriteLine(_WheatePizza.GetProduct().compaltePizza());
 
             //Bonus 1
             _WheatePizza.BuildTopping();
-            Console.WriteLine(_WheatePizza.GetProduct().compaltePiza());
+            Console.WriteLine(_WheatePizza.GetProduct().compaltePizza());
         }
     }
 }
