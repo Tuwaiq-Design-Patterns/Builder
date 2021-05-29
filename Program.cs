@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 namespace Builder
 {
@@ -12,14 +12,44 @@ namespace Builder
     }
     public class whitePizzaBuilder : IPizzaBuilder
     {
-        private Pizza _Pizza = new Pizza();
+        private PizzaWhite _Pizza = new PizzaWhite();
         public whitePizzaBuilder()
         {
             this.Reset();
         }
         public void Reset()
         {
-            this._Pizza = new Pizza();
+            this._Pizza = new PizzaWhite();
+        }
+        public void BuildSauce()
+        {
+            this._Pizza.Add("Sauce");
+        }
+        public void BuildTopping()
+        {
+            this._Pizza.Add("Topping");
+        }
+        public void BuildDough()
+        {
+            this._Pizza.Add("White dough");
+        }
+        public PizzaWhite getPizza()
+        {
+            PizzaWhite result = this._Pizza;
+            this.Reset();
+            return result;
+        }
+    }
+    public class WheatePizzaBuilder : IPizzaBuilder
+    {
+        private PizzaWheet _Pizza = new PizzaWheet();
+        public WheatePizzaBuilder()
+        {
+            this.Reset();
+        }
+        public void Reset()
+        {
+            this._Pizza = new PizzaWheet();
         }
         public void BuildSauce()
         {
@@ -31,47 +61,34 @@ namespace Builder
         }
         public void BuildDough()
         {
-            this._Pizza.Add("white dough");
+            this._Pizza.Add("Wheat Dough ");
         }
-        public Pizza getPizza()
+        public PizzaWheet getPizza()
         {
-            Pizza result = this._Pizza;
-            this.Reset();
-            return result;
-        }
-    }
-    public class WheatePizzaBuilder : IPizzaBuilder
-    {
-        private Pizza _Pizza = new Pizza();
-        public WheatePizzaBuilder()
-        {
-            this.Reset();
-        }
-        public void Reset()
-        {
-            this._Pizza = new Pizza();
-        }
-        public void BuildSauce()
-        {
-            this._Pizza.Add(" sauce");
-        }
-        public void BuildTopping()
-        {
-            this._Pizza.Add(" Topping");
-        }
-        public void BuildDough()
-        {
-            this._Pizza.Add("wheat Dough ");
-        }
-        public Pizza getPizza()
-        {
-            Pizza result = this._Pizza;
+            PizzaWheet result = this._Pizza;
             this.Reset();
             return result;
         }
     }
 
-    public class Pizza
+    public class PizzaWheet
+    {
+        private List<object> P = new List<object>();
+        public void Add(string Pizza)
+        {
+            this.P.Add(Pizza);
+        }
+        public string PizzaContian()
+        {
+            string str = "";
+            for (int i = 0; i < this.P.Count; i++)
+            {
+                str += this.P[i] + ",";
+            }
+            return "Pizza Wheet :" + str;
+        }
+    }
+    public class PizzaWhite
     {
         private List<object> P = new List<object>();
         public void Add(string Pizza)
@@ -85,7 +102,7 @@ namespace Builder
             {
                 str += this.P[i] + ",";
             }
-            return "Pizza :" + str;
+            return "Pizza White :" + str;
         }
     }
     public class Director
@@ -113,18 +130,19 @@ namespace Builder
         {
          
             var director = new Director();
-            var builder = new whitePizzaBuilder();
-            director.Builder = builder;
+            var White = new whitePizzaBuilder();
+            var Wheet = new WheatePizzaBuilder();
+            director.Builder = White;
             
             director.MakePizzaWithOutSauce();
-            Console.WriteLine(builder.getPizza().PizzaParts());
-          
+            Console.WriteLine(White.getPizza().PizzaParts());
+
             director.MakePizza();
-            Console.WriteLine(builder.getPizza().PizzaParts());
+            Console.WriteLine(White.getPizza().PizzaParts());
             //Client Do the with out Director
-            builder.BuildTopping();
-            builder.BuildDough();
-            Console.WriteLine(builder.getPizza().PizzaParts());
+            White.BuildTopping();
+            White.BuildDough();
+            Console.WriteLine(White.getPizza().PizzaParts());
         }
     }
 }
