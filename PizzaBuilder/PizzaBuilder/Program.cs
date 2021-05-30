@@ -12,19 +12,19 @@ namespace PizzaBuilder
 
     public class WhitePizzaBuilder : IPizzaBuilder
     {
-        private Pizza _pizza;
+        private WhitePizza _pizza;
         public WhitePizzaBuilder()
         {
             this.Reset();
         }
         public void Reset()
         {
-            this._pizza = new Pizza();
+            this._pizza = new WhitePizza();
         }
 
-        public Pizza GetPizza()
+        public WhitePizza GetPizza()
         {
-            Pizza result = this._pizza;
+            WhitePizza result = this._pizza;
             this.Reset();
             return result;
         }
@@ -49,19 +49,19 @@ namespace PizzaBuilder
 
     public class WheatPizzaBuilder : IPizzaBuilder
     {
-        private Pizza _pizza;
+        private WheatPizza _pizza;
         public WheatPizzaBuilder()
         {
             this.Reset();
         }
         public void Reset()
         {
-            this._pizza = new Pizza();
+            this._pizza = new WheatPizza();
         }
         
-        public Pizza GetPizza()
+        public WheatPizza GetPizza()
         {
-            Pizza result = this._pizza;
+            WheatPizza result = this._pizza;
             this.Reset();
             return result;
         }
@@ -83,7 +83,7 @@ namespace PizzaBuilder
 
     }
 
-    public class Pizza
+    public class WheatPizza
     {
         private List<object> parts = new List<object>();
         public void Add(string part)
@@ -102,6 +102,24 @@ namespace PizzaBuilder
         }
     }
 
+    public class WhitePizza
+    {
+        private List<object> parts = new List<object>();
+        public void Add(string part)
+        {
+            this.parts.Add(part);
+        }
+        public string listParts()
+        {
+            string str = "";
+            for (int i = 0; i < this.parts.Count; i++)
+            {
+                if (i < this.parts.Count - 1) str += this.parts[i] + ",";
+                else str += this.parts[i] + ".";
+            }
+            return "Pizaa componenets:" + str;
+        }
+    }
 
     public class Director
     {
