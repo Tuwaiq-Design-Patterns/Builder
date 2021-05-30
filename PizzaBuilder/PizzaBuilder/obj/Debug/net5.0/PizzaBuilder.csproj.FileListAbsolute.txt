@@ -1,0 +1,16 @@
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.exe
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.deps.json
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.runtimeconfig.json
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.runtimeconfig.dev.json
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.dll
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\ref\PizzaBuilder.dll
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\bin\Debug\net5.0\PizzaBuilder.pdb
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.csprojAssemblyReference.cache
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.AssemblyInfoInputs.cache
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.AssemblyInfo.cs
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.dll
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\ref\PizzaBuilder.dll
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.pdb
+C:\Users\Reema\source\repos\Builder-1\PizzaBuilder\PizzaBuilder\obj\Debug\net5.0\PizzaBuilder.genruntimeconfig.cache
