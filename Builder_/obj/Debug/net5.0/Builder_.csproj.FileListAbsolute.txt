@@ -1,0 +1,15 @@
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder_.csprojAssemblyReference.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder_.AssemblyInfoInputs.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder_.AssemblyInfo.cs
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder_.csproj.CoreCompileInputs.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder_.deps.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder_.runtimeconfig.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder_.runtimeconfig.dev.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder_.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/ref/Builder_.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder_.pdb
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder_.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/ref/Builder_.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder_.pdb
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder_.genruntimeconfig.cache

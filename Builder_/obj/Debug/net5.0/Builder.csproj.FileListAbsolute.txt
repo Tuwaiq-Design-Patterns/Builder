@@ -1,0 +1,15 @@
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder.deps.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder.runtimeconfig.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/ref/Builder.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/bin/Debug/net5.0/Builder.pdb
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder.csprojAssemblyReference.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/ref/Builder.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder.pdb
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/Builder_/obj/Debug/net5.0/Builder.genruntimeconfig.cache

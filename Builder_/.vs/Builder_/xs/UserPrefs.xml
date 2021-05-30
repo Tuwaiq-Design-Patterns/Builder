@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7165C809-A6DE-4E00-AB9D-C93253ADD181}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="3" Column="19" />
+      <File FileName="Components/Director.cs" Line="1" Column="19" />
+      <File FileName="Components/IPizzaBuilder.cs" Line="1" Column="19" />
+      <File FileName="Components/Pizza.cs" Line="1" Column="19" />
+      <File FileName="Components/WheatPizzaBuilder.cs" Line="4" Column="19" />
+      <File FileName="Components/WhitePizzaBuilder.cs" Line="1" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Builder_" expanded="True">
+            <Node name="Builder_" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
