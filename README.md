@@ -1,4 +1,5 @@
 # Builder
+A simple program that follows the builder design pattern.
 
 ## معلومات المتدربة
 
