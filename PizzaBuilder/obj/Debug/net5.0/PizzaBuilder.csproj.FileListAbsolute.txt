@@ -1,0 +1,16 @@
+/home/z/tuwaiq/design_patterns/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder
+/home/z/tuwaiq/design_patterns/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.deps.json
+/home/z/tuwaiq/design_patterns/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.runtimeconfig.json
+/home/z/tuwaiq/design_patterns/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.runtimeconfig.dev.json
+/home/z/tuwaiq/design_patterns/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.dll
+/home/z/tuwaiq/design_patterns/PizzaBuilder/bin/Debug/net5.0/ref/PizzaBuilder.dll
+/home/z/tuwaiq/design_patterns/PizzaBuilder/bin/Debug/net5.0/PizzaBuilder.pdb
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.csproj.AssemblyReference.cache
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.AssemblyInfoInputs.cache
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.AssemblyInfo.cs
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.csproj.CoreCompileInputs.cache
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.dll
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/ref/PizzaBuilder.dll
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.pdb
+/home/z/tuwaiq/design_patterns/PizzaBuilder/obj/Debug/net5.0/PizzaBuilder.genruntimeconfig.cache
