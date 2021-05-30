@@ -4,6 +4,7 @@ namespace PizzaBulider
 {
     public interface PizzaBuilder
     {
+        void Reset();
         void BuildDough();
         void BuildSauce();
         void BuildTopping();
